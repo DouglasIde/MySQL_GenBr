@@ -14,7 +14,7 @@ Segue abaixo os arquivos com as minhas consultas: </p>
 
 
 <h1>📂 Atividades 02</h1>
-<p>Foram realizadas 4 atividades dentro da documentação proposta pela Generation Brasil, onde foi abordado os temas de consultas avançadas utilizando a cláusula JOIN
+<p>Foram realizadas 3 atividades dentro da documentação proposta pela Generation Brasil, onde foi abordado os temas de consultas avançadas utilizando a cláusula JOIN
 Segue abaixo os arquivos com as minhas consultas: </p>
 <li>db_generation_game_online</li>
 <li>db_pizzaria_legal</li>
